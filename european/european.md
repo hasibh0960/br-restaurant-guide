@@ -1,5 +1,5 @@
 # Bay Ridge Restaurant Guide
-## Europe
+## European
 ---
 Select a restaurant:
 <<<<<<< HEAD
